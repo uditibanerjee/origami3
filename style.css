@@ -1,0 +1,24 @@
+
+           h1{
+               color:black;
+           }
+           *{
+               border: solid;
+           }
+      .heading{
+          background-color:coral ;
+          display: flex;
+         justify-content: space-around;
+      }
+      .game{
+          background-color: lightpink;
+          border-radius:20px ;
+          width: 500px;
+         
+          
+      }
+
+      .origami{
+          display: flex;
+          flex-wrap: wrap;
+      }
